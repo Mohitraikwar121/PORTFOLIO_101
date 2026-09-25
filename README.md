@@ -1,4 +1,4 @@
-# 🚀 Mohit Raikwar — Developer Portfolio
+# 🚀 Mohit Raikwar — Developer Portfolio. 
  
 > **A modern, responsive, and interactive developer portfolio built with React, TypeScript, and Vite.**
 
