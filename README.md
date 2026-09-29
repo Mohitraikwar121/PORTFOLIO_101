@@ -6,7 +6,6 @@ This repository contains my personal developer portfolio, designed to showcase m
 
 The portfolio focuses on a **developer-first visual experience** with a dark, modern aesthetic, responsive layouts, smooth interactions, and reusable React components.
 
-
 ## 🌐 Live Portfolio
 
 🔗 **Portfolio:** `https://your-portfolio-url.com`
@@ -144,8 +143,6 @@ Some of the projects represented in my portfolio include work related to:
 * 📊 Data Science
 * ☁️ DevOps & Infrastructure
 * 🧠 Computer Vision
-
----
 
 ## ⚙️ Services Section
 
