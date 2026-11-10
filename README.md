@@ -14,7 +14,7 @@ The portfolio focuses on a **developer-first visual experience** with a dark, mo
 
 > Replace the placeholder URLs above with your actual deployed portfolio and LinkedIn profile.
 
-
+ 
 ## ✨ Features
 
 * 🎨 **Modern futuristic UI** with a dark developer-focused design
